@@ -1,0 +1,252 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.8.9)  11 OCT 2022 19:20
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**tex/submission_template.tex
+(./tex/submission_template.tex
+LaTeX2e <2022-06-01> patch level 5
+L3 programming layer <2022-08-05>
+(/home/user/Documents/texlive/2022/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(/home/user/Documents/texlive/2022/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(/home/user/Documents/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/home/user/Documents/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/home/user/Documents/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(/home/user/Documents/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/home/user/Documents/texlive/2022/texmf-dist/tex/latex/graphics-cfg/graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(/home/user/Documents/texlive/2022/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+(/home/user/Documents/texlive/2022/texmf-dist/tex/latex/hyphenat/hyphenat.sty
+Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
+\langwohyphens=\language87
+LaTeX Info: Redefining \_ on input line 43.
+)
+(/home/user/Documents/texlive/2022/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count193
+\float@exts=\toks17
+\float@box=\box51
+\@float@everytoks=\toks18
+\@floatcapt=\box52
+)
+(/home/user/Documents/texlive/2022/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+
+(/home/user/Documents/texlive/2022/texmf-dist/tex/latex/tools/array.sty
+Package: array 2022/03/10 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen141
+\ar@mcellbox=\box53
+\extrarowheight=\dimen142
+\NC@list=\toks19
+\extratabsurround=\skip49
+\backup@length=\skip50
+\ar@cellbox=\box54
+)
+\TX@col@width=\dimen143
+\TX@old@table=\dimen144
+\TX@old@col=\dimen145
+\TX@target=\dimen146
+\TX@delta=\dimen147
+\TX@cols=\count194
+\TX@ftn=\toks20
+)
+(/home/user/Documents/texlive/2022/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
+\LTleft=\skip51
+\LTright=\skip52
+\LTpre=\skip53
+\LTpost=\skip54
+\LTchunksize=\count195
+\LTcapwidth=\dimen148
+\LT@head=\box55
+\LT@firsthead=\box56
+\LT@foot=\box57
+\LT@lastfoot=\box58
+\LT@gbox=\box59
+\LT@cols=\count196
+\LT@rows=\count197
+\c@LT@tables=\count198
+\c@LT@chunks=\count199
+\LT@p@ftn=\toks21
+)
+(/home/user/Documents/texlive/2022/texmf-dist/tex/latex/adjustbox/adjustbox.sty
+Package: adjustbox 2020/08/19 v1.3 Adjusting TeX boxes (trim, clip, ...)
+(/home/user/Documents/texlive/2022/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(/home/user/Documents/texlive/2022/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/home/user/Documents/texlive/2022/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks22
+\XKV@tempa@toks=\toks23
+)
+\XKV@depth=\count266
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/home/user/Documents/texlive/2022/texmf-dist/tex/latex/adjustbox/adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+(/home/user/Documents/texlive/2022/texmf-dist/tex/latex/adjustbox/trimclip.sty
+Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
+
+(/home/user/Documents/texlive/2022/texmf-dist/tex/latex/collectbox/collectbox.s
+ty
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box60
+)
+\tc@llx=\dimen149
+\tc@lly=\dimen150
+\tc@urx=\dimen151
+\tc@ury=\dimen152
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+
+(/home/user/Documents/texlive/2022/texmf-dist/tex/latex/adjustbox/tc-pdftex.def
+File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen153
+\adjbox@Height=\dimen154
+\adjbox@Depth=\dimen155
+\adjbox@Totalheight=\dimen156
+\adjbox@pwidth=\dimen157
+\adjbox@pheight=\dimen158
+\adjbox@pdepth=\dimen159
+\adjbox@ptotalheight=\dimen160
+
+(/home/user/Documents/texlive/2022/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count267
+) (/home/user/Documents/texlive/2022/texmf-dist/tex/latex/varwidth/varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box61
+\sift@deathcycles=\count268
+\@vwid@loff=\dimen161
+\@vwid@roff=\dimen162
+))
+(/home/user/Documents/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2022-08-05 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count269
+\l__pdf_internal_box=\box62
+) (./submission_template.aux)
+\openout1 = `submission_template.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+
+(/home/user/Documents/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count270
+\scratchdimen=\dimen163
+\scratchbox=\box63
+\nofMPsegments=\count271
+\nofMParguments=\count272
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count273
+\MPscratchDim=\dimen164
+\MPnumerator=\count274
+\makeMPintoPDFobject=\count275
+\everyMPtoPDFconversion=\toks25
+)
+(/home/user/Documents/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/home/user/Documents/texlive/2022/texmf-dist/tex/latex/latexconfig/epstopdf-sy
+s.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 22.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 22.
+ [1
+
+{/home/user/Documents/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map
+}]
+Overfull \hbox (11.3752pt too wide) in paragraph at lines 307--307
+[]\OT1/cmtt/m/n/12 type state is (rst, s1, s2, s3, s4, s5, s6, s7, s8,s9, s10, 
+s11);[] 
+ []
+
+[2] [3] [4] [5] [6] [7] [8] [9]
+<figs/strdet_waveform.PNG, id=35, 1156.32pt x 650.43pt>
+File: figs/strdet_waveform.PNG Graphic file (type png)
+<use figs/strdet_waveform.PNG>
+Package pdftex.def Info: figs/strdet_waveform.PNG  used on input line 392.
+(pdftex.def)             Requested size: 390.0pt x 219.36674pt.
+ [10 <./figs/strdet_waveform.PNG>]
+<figs/strdet_scan.JPG, id=41, 379.4175pt x 528.7755pt>
+File: figs/strdet_scan.JPG Graphic file (type jpg)
+<use figs/strdet_scan.JPG>
+Package pdftex.def Info: figs/strdet_scan.JPG  used on input line 406.
+(pdftex.def)             Requested size: 234.00238pt x 326.11885pt.
+ [11 <./figs/strdet_scan.JPG>] (./submission_template.aux) ) 
+Here is how much of TeX's memory you used:
+ 2800 strings out of 477678
+ 49413 string characters out of 5824486
+ 383915 words of memory out of 5000000
+ 21585 multiletter control sequences out of 15000+600000
+ 471851 words of font info for 37 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,7n,62p,315b,280s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</home/user/Documen
+ts/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></home/use
+r/Documents/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></
+home/user/Documents/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr1
+7.pfb></home/user/Documents/texlive/2022/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmtt12.pfb>
+Output written on submission_template.pdf (11 pages, 440713 bytes).
+PDF statistics:
+ 64 PDF objects out of 1000 (max. 8388607)
+ 39 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+

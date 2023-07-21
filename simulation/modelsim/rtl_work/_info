@@ -1,0 +1,222 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/mayan/OneDrive/Mayank new/IIT B/Archives/EE214/Lab8/simulation/modelsim
+Edut
+Z1 w1665049810
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 4
+R0
+Z4 8C:/Users/mayan/OneDrive/Mayank new/IIT B/Archives/EE214/Lab8/DUT.vhdl
+Z5 FC:/Users/mayan/OneDrive/Mayank new/IIT B/Archives/EE214/Lab8/DUT.vhdl
+l0
+L7 1
+V2cC_@UmB2eFE;[;e>ZEOL3
+!s100 KdZMUDUnh83IU`c<>=8R>1
+Z6 OV;C;2020.1;71
+31
+Z7 !s110 1682800659
+!i10b 1
+Z8 !s108 1682800659.000000
+Z9 !s90 -reportprogress|300|-93|-work|work|C:/Users/mayan/OneDrive/Mayank new/IIT B/Archives/EE214/Lab8/DUT.vhdl|
+Z10 !s107 C:/Users/mayan/OneDrive/Mayank new/IIT B/Archives/EE214/Lab8/DUT.vhdl|
+!i113 1
+Z11 o-93 -work work
+Z12 tExplicit 1 CvgOpt 0
+Adutwrap
+R2
+R3
+DEx4 work 3 dut 0 22 2cC_@UmB2eFE;[;e>ZEOL3
+!i122 4
+l18
+L12 23
+VOdBoGhSb5D?]dabcHk`;i2
+!s100 XOQOVo]]A8[B::UXdfM>k1
+R6
+31
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Etestbench
+Z13 w1665049832
+R3
+R2
+!i122 5
+R0
+Z14 8C:/Users/mayan/OneDrive/Mayank new/IIT B/Archives/EE214/Lab8/Testbench.vhdl
+Z15 FC:/Users/mayan/OneDrive/Mayank new/IIT B/Archives/EE214/Lab8/Testbench.vhdl
+l0
+L7 1
+V]iKK_Z9L:G9B:i8c]3eFH0
+!s100 bWf8kl8zb90X@P1m>V^K20
+R6
+31
+Z16 !s110 1682800660
+!i10b 1
+Z17 !s108 1682800660.000000
+Z18 !s90 -reportprogress|300|-93|-work|work|C:/Users/mayan/OneDrive/Mayank new/IIT B/Archives/EE214/Lab8/Testbench.vhdl|
+!s107 C:/Users/mayan/OneDrive/Mayank new/IIT B/Archives/EE214/Lab8/Testbench.vhdl|
+!i113 1
+R11
+R12
+Abehave
+R3
+R2
+DEx4 work 9 testbench 0 22 ]iKK_Z9L:G9B:i8c]3eFH0
+!i122 5
+l69
+L9 132
+VglOQzOfoKOo_Roh?9doTN3
+!s100 _05GoH?Pi6ecmQB4FRdo42
+R6
+31
+R16
+!i10b 1
+R17
+R18
+Z19 !s107 C:/Users/mayan/OneDrive/Mayank new/IIT B/Archives/EE214/Lab8/Testbench.vhdl|
+!i113 1
+R11
+R12
+Etoplevel
+Z20 w1665049844
+Z21 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+R2
+R3
+!i122 3
+R0
+Z22 8C:/Users/mayan/OneDrive/Mayank new/IIT B/Archives/EE214/Lab8/TopLevel.vhdl
+Z23 FC:/Users/mayan/OneDrive/Mayank new/IIT B/Archives/EE214/Lab8/TopLevel.vhdl
+l0
+L5 1
+VRW=hg7X2^>c3bX1h9KmmK0
+!s100 gJ^gg3F;Qe=>jcbTR:JjO3
+R6
+31
+Z24 !s110 1682800658
+!i10b 1
+Z25 !s108 1682800658.000000
+Z26 !s90 -reportprogress|300|-93|-work|work|C:/Users/mayan/OneDrive/Mayank new/IIT B/Archives/EE214/Lab8/TopLevel.vhdl|
+Z27 !s107 C:/Users/mayan/OneDrive/Mayank new/IIT B/Archives/EE214/Lab8/TopLevel.vhdl|
+!i113 1
+R11
+R12
+Astruct
+R21
+R2
+R3
+DEx4 work 8 toplevel 0 22 RW=hg7X2^>c3bX1h9KmmK0
+!i122 3
+l75
+L13 146
+VI@GgZiZHNPXNM[3HOAcgh3
+!s100 :DkVc]MOQ=akL_O^kYB^L2
+R6
+31
+R24
+!i10b 1
+R25
+R26
+R27
+!i113 1
+R11
+R12
+Ev_jtag
+Z28 w1661710690
+R21
+R2
+R3
+!i122 1
+R0
+Z29 8C:/Users/mayan/OneDrive/Mayank new/IIT B/Archives/EE214/Lab8/v_jtag/synthesis/v_jtag.vhd
+Z30 FC:/Users/mayan/OneDrive/Mayank new/IIT B/Archives/EE214/Lab8/v_jtag/synthesis/v_jtag.vhd
+l0
+L9 1
+VK7J:B[m3^:cB1Km[I3N602
+!s100 C:GMYKMFIUkIMaKNS>ek<2
+R6
+31
+!s110 1682800655
+!i10b 1
+Z31 !s108 1682800655.000000
+Z32 !s90 -reportprogress|300|-93|-work|work|C:/Users/mayan/OneDrive/Mayank new/IIT B/Archives/EE214/Lab8/v_jtag/synthesis/v_jtag.vhd|
+Z33 !s107 C:/Users/mayan/OneDrive/Mayank new/IIT B/Archives/EE214/Lab8/v_jtag/synthesis/v_jtag.vhd|
+!i113 1
+R11
+R12
+Artl
+R21
+R2
+R3
+DEx4 work 6 v_jtag 0 22 K7J:B[m3^:cB1Km[I3N602
+!i122 1
+l85
+L44 83
+VJODH=ZQLe0=R51Pn2gWGM3
+!s100 QN^;ea;8E9NBL5]J::=Mk2
+R6
+31
+!s110 1682800656
+!i10b 1
+R31
+R32
+R33
+!i113 1
+R11
+R12
+Eword_detection
+Z34 w1665054445
+R21
+R2
+R3
+!i122 2
+R0
+Z35 8C:/Users/mayan/OneDrive/Mayank new/IIT B/Archives/EE214/Lab8/word_detection.vhd
+Z36 FC:/Users/mayan/OneDrive/Mayank new/IIT B/Archives/EE214/Lab8/word_detection.vhd
+l0
+L5 1
+V^R3PBjKK`3cd@;aSJLFfH1
+!s100 ]9MGSj?kB6VlaXUKZPQ[?3
+R6
+31
+Z37 !s110 1682800657
+!i10b 1
+Z38 !s108 1682800656.000000
+Z39 !s90 -reportprogress|300|-93|-work|work|C:/Users/mayan/OneDrive/Mayank new/IIT B/Archives/EE214/Lab8/word_detection.vhd|
+Z40 !s107 C:/Users/mayan/OneDrive/Mayank new/IIT B/Archives/EE214/Lab8/word_detection.vhd|
+!i113 1
+R11
+R12
+Abhv
+R21
+R2
+R3
+DEx4 work 14 word_detection 0 22 ^R3PBjKK`3cd@;aSJLFfH1
+!i122 2
+l19
+L11 236
+VKo]h`2@8VB5ckMi<BfPmz3
+!s100 3=:kb0alil@bcUgZ2FaS<2
+R6
+31
+R37
+!i10b 1
+R38
+R39
+R40
+!i113 1
+R11
+R12
